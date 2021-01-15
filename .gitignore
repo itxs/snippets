@@ -1,0 +1,5 @@
+/.vs
+/VisualGDB
+/freertos/.vs
+/freertos/mutex/.visualgdb
+/freertos/mutex/VisualGDB
